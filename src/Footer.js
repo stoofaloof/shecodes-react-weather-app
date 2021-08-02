@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="row">
         <div className="footer">
           <a
-            href="https://github.com/stoofaloof/Final-Weather-App"
+            href="https://github.com/stoofaloof/shecodes-react-weather-app"
             className="codeLink"
             target="_blank"
             rel="noreferrer"
