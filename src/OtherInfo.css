@@ -1,0 +1,21 @@
+.sideDisplay {
+  font-size: 15px;
+  margin: 0px;
+  padding: 10px 0px 0px 65px;
+}
+
+.weather-image {
+  float: left;
+}
+
+.main-temp {
+  font-size: 65px;
+  font-weight: bold;
+  line-height: 88px;
+  margin-left: 20px;
+}
+
+.temp-unit {
+  font-size: 20px;
+  margin-left: 15px;
+}

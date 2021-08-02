@@ -1,0 +1,17 @@
+.mainHeader {
+  margin: 15px 0px 0px 0px;
+}
+
+.topDisplay {
+  font-size: 15px;
+}
+
+.city-display {
+  text-transform: capitalize;
+}
+
+.note-display {
+  font-size: 25px;
+  padding: 10px 0px 0px 0px;
+  text-transform: capitalize;
+}

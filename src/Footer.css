@@ -1,0 +1,10 @@
+.footer {
+  font-size: 12px;
+  font-style: italic;
+  padding: 10px 0px 0px 23px;
+}
+
+.footer a {
+  color: #fa7672;
+  text-decoration: underline;
+}

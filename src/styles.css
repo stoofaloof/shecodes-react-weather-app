@@ -1,0 +1,43 @@
+body {
+  color: #70757a;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  display: inline;
+  font-size: 50px;
+}
+
+h2 {
+  display: inline;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 5px;
+}
+
+a {
+  color: #fa7672;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fa7672;
+  font-weight: bolder;
+}
+
+.appWrapper {
+  margin: 40px 20px 10px 20px;
+  max-width: 700px;
+}
+
+.mainBody {
+  background: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%);
+  border: 1px solid #70757a88;
+  border-radius: 20px;
+  max-width: 700px;
+  padding: 20px;
+}
